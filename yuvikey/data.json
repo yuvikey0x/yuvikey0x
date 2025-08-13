@@ -1,0 +1,56 @@
+[
+    {
+        "private_key": "32ab263b2984b237ef1ba2ecd19584e2d838f897c2f233fd348b409aeb78d606",
+        "wallet_address": "0x4990EBA6450B6c96e2022dC8520AB196cCEF6aD2",
+        "fid": 1127558,
+        "username": "scarlet01"
+    },
+    {
+        "private_key": "240b3e435dfc082197b046c057e33b6814327c27a9091b7682eea0c94b6e5d92",
+        "wallet_address": "0xF3A705D39b0816d31DA51e16966d22fbc13DFC41",
+        "fid": 1139308,
+        "username": "monkrie"
+    },
+    {
+        "private_key": "8622013a9a731a254e98e683de6a013ee9176a1c9fd04babad458e213413a616",
+        "wallet_address": "0x412F00950181CeD0adaEF663e457BD19eC7E1c42",
+        "fid": 1139325,
+        "username": "selecron"
+    },
+    {
+        "private_key": "c6fe24f5ce2ff4b20f51271b7f176118771848e9abffdd788cfa0359e1c0941e",
+        "wallet_address": "0xc730C54423FaE4552a8c04414a6DAc0eD1578D6f",
+        "fid": 1139334,
+        "username": "cleddy"
+    },
+    {
+        "private_key": "9c1f1c68d0114113a412552015d5501ea266be2d541a0cbe49e41d9a612cf2af",
+        "wallet_address": "0xAAa2F1Bf6AbC777A3f6b6ebE4C12954253bfECCB",
+        "fid": 1139347,
+        "username": "moakai4"
+    },
+    {
+        "private_key": "975531eac61e01c263f57d81c842aa15c40b0ab7b69cab30d7e3e8f888c87090",
+        "wallet_address": "0xaCa249B0defC2b8ad1a73337e1EB12E7d21E36B2",
+        "fid": 1139355,
+        "username": "doemin1"
+    },
+    {
+        "private_key": "8ed9817bbc8849289a9365403eccbcfb093c3acb45913737edf021f703739575",
+        "wallet_address": "0x9872281033246A6b565639Cdd7c49dFa749d1d64",
+        "fid": 1139687,
+        "username": "abbys6"
+    },
+    {
+        "private_key": "ff2fbe9c26febcd2195ce5853e1d3e90c90af7fa918009b6dd3aac95ced9c1fb",
+        "wallet_address": "0xCB0574A3336062BD31eE85842E344d83Fa84bdC8",
+        "fid": 1139708,
+        "username": "dice6"
+    },
+    {
+        "private_key": "a71aedc9d81fe97959b7ec6b92ec820a7c839eb625e149e5d000c2acc853473c",
+        "wallet_address": "0xb3f82De3798a1Dfe58290d7705df9b527748c9B5",
+        "fid": 11397457,
+        "username": null
+    }
+]
