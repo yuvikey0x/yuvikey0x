@@ -90,9 +90,20 @@
         "username": "nade0"
     },
     {
-        "private_key": "a71aedc9d81fe97959b7ec6b92ec820a7c839eb625e149e5d000c2acc853473c",
-        "wallet_address": "0xb3f82De3798a1Dfe58290d7705df9b527748c9B5",
-        "fid": 11397457,
-        "username": seaaa7
-    }
-        ]
+        "private_key": "704598a28286db67c72d87e93dc899387ac9da34ebb3bda44dd4d690f145aa1d",
+        "wallet_address": "0xC1F46489286eC099010031B0c603f97b01bCc96b",
+        "fid": 1156773,
+        "username": "kano0"
+    },
+    {
+        "private_key": "8c8df1c7ab5777fd2ea3286b8797ddbc9f518aae9da0f22cb1af734bae3417f2",
+        "wallet_address": "0x9b6F33ae03034DFA85d48694A73b3cd263c1E59b",
+        "fid": 1163466,
+        "username": "nesogenep"
+    },
+    {
+        "private_key": "4020c9862af08f2421323183919d31e7623c36500c6b256ba56e8c40e4aa472d",
+        "wallet_address": "0xc5F148314AeC2ef2eB55ca6cD4506F1aD6b6A8E1",
+        "fid": 1164339,
+        "username": "kemo1"
+    },
